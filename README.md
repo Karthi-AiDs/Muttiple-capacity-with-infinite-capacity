@@ -1,4 +1,4 @@
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# EXP 5: Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 
 ## Date: 03/05/2025
 ## Name: KARTHIKEYAN D
